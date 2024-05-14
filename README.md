@@ -34,6 +34,13 @@ To login into this project you can check
 
 [Dummy JSON](https://dummyjson.com/users)
 
+
+
+{'dateCreated':Tue May 14 2024 00:00:00 GMT+0700 (Indochina Time).toISOString(),'title':test create, 
+            'featured':true, 'departmentId':27, 'keywords':test,if,this,works, 'description':,
+            'subId1': 44, 'subId2': undefined, 'subId3': undefined, 'subId4': undefined,
+            'status':waiting}
+
 or you can use some of the data below
 
 Username: atuny0
